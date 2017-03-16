@@ -5,9 +5,8 @@ Scripts and tools developed by me for CTF competitions. <b>"Show me the code"</b
 
 <b>CTF-Team</b>: RTFM - Red Team Freakin' Maniacs - rtfm-ctf.org<br>
 
-* Convert the passwords of the rockyou wordlist to md5
 
-# Output:
+# rock2md5 - Convert the passwords of the rockyou wordlist to md5:
 
 87cdd93f8d43d1cc20ef8cadd2793ae3:115493479<br>
 810f36c1082fdb2527b6a6310b05ab8a:1154928<br>
